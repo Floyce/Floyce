@@ -2,7 +2,7 @@
 
 **Software Developer · Blockchain Applications · Rust & Web Development**
 
-I build software at the intersection of backend engineering, web interfaces, and real-world financial access. I'm currently focused on blockchain applications on the Stellar network while continuing to grow my Rust and full-stack engineering skills.
+I build software at the intersection of frontend engineering, web interfaces, and real-world financial access. I'm currently focused on blockchain applications on the Stellar network while continuing to grow my Rust and full-stack engineering skills.
 
 One area I'm exploring is how people using feature phones can participate in decentralised finance. SEP-24 and SEP-12 flows can involve web-based experiences that create barriers for people without smartphones. **PesaText** explores more inclusive, SMS-based ways to connect everyday mobile-money users with DeFi.
 
