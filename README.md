@@ -59,4 +59,4 @@ Stellar · Soroban · Lightning Network · Actix Web · SQLx · REST APIs</p>
 
 ---
 
-**Currently open to:** Software engineering internships and developer roles in backend, full-stack, and blockchain application development.
+**Currently open to:** Software engineering internships and developer roles in frontend, full-stack, and blockchain application development.
